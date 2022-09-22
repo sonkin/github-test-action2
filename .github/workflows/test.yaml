@@ -5,7 +5,7 @@ name: Test CI
 
 on:
   pull_request:
-    branches: [test]
+    branches: [test-new]
 
 jobs:
   build:
